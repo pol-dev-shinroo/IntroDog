@@ -206,9 +206,4 @@
 | 댓글 삭제            | DELETE | /board/reply/delete     | {'boardId':board_id,'seqNo' : seqNo}                                                                       | {msg="삭제되었습니다."}                                                                                                             |
   
   
-## 📝 후기 📝
-### __이주환__: <a target="_blank" href="https://velog.io/@leejuhwan/IntroDOG-%ED%95%AD%ED%95%B499-1%EC%A3%BC%EC%B0%A8-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=plastic&logo=Velog&logoColor=white&link=https://velog.io/@leejuhwan/IntroDOG-%ED%95%AD%ED%95%B499-1%EC%A3%BC%EC%B0%A8-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8"/></a>
-    
-### __이진서__: <a target="_blank" href="https://velog.io/@jins_dev/%ED%95%AD%ED%95%B499-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B82"> VELOG LINK</a>
-    
-### __김재혁__:
+
